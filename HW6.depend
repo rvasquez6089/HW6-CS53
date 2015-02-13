@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1381498081 source:/home/ryan/Documents/CS53 Fall/HW6/HW6/main.cpp
+	<iostream>
+	"slot_mach.h"
+
+1381498031 source:/home/ryan/Documents/CS53 Fall/HW6/HW6/slot_mach.cpp
+	"slot_mach.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1381498016 /home/ryan/Documents/CS53 Fall/HW6/HW6/slot_mach.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+

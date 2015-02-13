@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1326" topLine="0" />
+	</File>
+	<File name="slot_mach.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="8798" topLine="212" />
+	</File>
+	<File name="slot_mach.h" open="1" top="0" tabpos="3">
+		<Cursor position="46" topLine="46" />
+	</File>
+</CodeBlocks_layout_file>
